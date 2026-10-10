@@ -1,0 +1,352 @@
+﻿类别,装备ID,英文名称,中文参考译名
+武器,032Pistol,.32 Pistol,.32 手枪
+武器,Pistol,10mm Pistol,10 毫米手枪
+武器,GaussRifle_Accelerated,Accelerated Gauss Rifle,加速型高斯步枪
+武器,Railgun_Accelerated,Accelerated Railway Rifle,加速型铁路步枪
+武器,PlasmaThrower_Agitated,Agitated Plasma Thrower,激发型等离子喷射器
+武器,AlienBlaster,Alien Blaster,外星爆能枪
+武器,AmataPistol,Amata's Pistol,阿玛塔的手枪
+武器,AlienBlaster_Amplified,Amplified Alien Blaster,增幅型外星爆能枪
+武器,GatlingLaser_Amplified,Amplified Gatling Laser,增幅型加特林激光枪
+武器,LaserPistol_Amplified,Amplified Laser Pistol,增幅型激光手枪
+武器,LaserRifle_Amplified,Amplified Laser Rifle,增幅型激光步枪
+武器,PlasmaPistol_Amplified,Amplified Plasma Pistol,增幅型等离子手枪
+武器,PlasmaRifle_Amplified,Amplified Plasma Rifle,增幅型等离子步枪
+武器,InstitutePistol_Apotheosis,Apotheosis,神化
+武器,032Pistol_ArmorPiercing,Armor Piercing .32 Pistol,穿甲型.32 手枪
+武器,Pistol_ArmorPiercing,Armor Piercing 10mm Pistol,穿甲型10 毫米手枪
+武器,AssaultRifle_ArmorPiercing,Armor Piercing Assault Rifle,穿甲型突击步枪
+武器,BBGun_ArmorPiercing,Armor Piercing BB Gun,穿甲型BB 弹枪
+武器,HuntingRifle_ArmorPiercing,Armor Piercing Hunting Rifle,穿甲型猎枪
+武器,Rifle_ArmorPiercing,Armor Piercing Lever-Action Rifle,穿甲型杠杆式步枪
+武器,Minigun_ArmorPiercing,Armor Piercing Minigun,穿甲型迷你机枪
+武器,Magnum_ArmorPiercing,Armor Piercing Scoped .44,穿甲型带瞄准镜的 .44 左轮枪
+武器,SniperRifle_ArmorPiercing,Armor Piercing Sniper Rifle,穿甲型狙击步枪
+武器,AssaultRifle,Assault Rifle,突击步枪
+武器,PipePistol_Auto,Auto Pipe Pistol,自动式土制手枪
+武器,Melee_BaseballBat,Baseball Bat,棒球棒
+武器,PipeRifle_Bayoneted,Bayoneted Pipe Rifle,带刺刀的土制步枪
+武器,BBGun,BB Gun,BB 弹枪
+武器,PipeRifle_BigSister,Big Sister,大姐头
+武器,Magnum_Blackhawk,Blackhawk,黑鹰
+武器,PlasmaThrower_Boosted,Boosted Plasma Thrower,强化型等离子喷射器
+武器,Flamer_Burnmaster,Burnmaster,燃烧大师
+武器,Melee_ButcherKnife,Butcher Knife,屠刀
+武器,PipeRifle_Calibrated,Calibrated Pipe Rifle,校准型土制步枪
+武器,CombatShotgun_CharonsShotgun,Charon's Shotgun,卡戎的霰弹枪
+武器,CombatShotgun,Combat Shotgun,战斗霰弹枪
+武器,AlienBlaster_Destabilizer,Destabilizer,不稳定化器
+武器,CombatShotgun_DoubleBarrelled,Double-Barrel Combat Shotgun,双管战斗霰弹枪
+武器,SawedOffShotgun_DoubleBarrelled,Double-Barrel Sawed-Off Shotgun,双管短管霰弹枪
+武器,Shotgun_DoubleBarrelled,Double-Barrel Shotgun,双管霰弹枪
+武器,PlasmaThrower_DragonsMaw,Dragon's Maw,龙之咽喉
+武器,JunkJet_Electrified,Electrified Junk Jet,带电型垃圾喷射器
+武器,032Pistol_Enhanced,Enhanced .32 Pistol,改良型.32 手枪
+武器,Pistol_Enhanced,Enhanced 10mm Pistol,改良型10 毫米手枪
+武器,AssaultRifle_Enhanced,Enhanced Assault Rifle,改良型突击步枪
+武器,BBGun_Enhanced,Enhanced BB Gun,改良型BB 弹枪
+武器,CombatShotgun_Enhanced,Enhanced Combat Shotgun,改良型战斗霰弹枪
+武器,Fatman_Enhanced,Enhanced Fat Man,改良型胖子核弹发射器
+武器,Flamer_Enhanced,Enhanced Flamer,改良型火焰喷射器
+武器,GaussRifle_Enhanced,Enhanced Gauss Rifle,改良型高斯步枪
+武器,HuntingRifle_Enhanced,Enhanced Hunting Rifle,改良型猎枪
+武器,Rifle_Enhanced,Enhanced Lever-Action Rifle,改良型杠杆式步枪
+武器,Minigun_Enhanced,Enhanced Minigun,改良型迷你机枪
+武器,MissilLauncher_Enhanced,Enhanced Missile Launcher,改良型导弹发射器
+武器,Railgun_Enhanced,Enhanced Railway Rifle,改良型铁路步枪
+武器,SawedOffShotgun_Enhanced,Enhanced Sawed-Off Shotgun,改良型短管霰弹枪
+武器,Magnum_Enhanced,Enhanced Scoped .44,改良型带瞄准镜的 .44 左轮枪
+武器,Shotgun_Enhanced,Enhanced Shotgun,改良型霰弹枪
+武器,SniperRifle_Enhanced,Enhanced Sniper Rifle,改良型狙击步枪
+武器,InstituteRifle_Excited,Excited Institute Rifle,激发型学院步枪
+武器,Shotgun_FarmersDaughter,Farmer's Daughter,农夫之女
+武器,Fatman,Fat Man,胖子核弹发射器
+武器,Melee_FireHydrantBat,Fire Hydrant Bat,消防栓球棒
+武器,Fist,Fist,拳头
+武器,Flamer,Flamer,火焰喷射器
+武器,JunkJet_Flaming,Flaming Junk Jet,燃烧型垃圾喷射器
+武器,AlienBlaster_Focused,Focused Alien Blaster,聚焦型外星爆能枪
+武器,GatlingLaser_Focused,Focused Gatling Laser,聚焦型加特林激光枪
+武器,LaserPistol_Focused,Focused Laser Pistol,聚焦型激光手枪
+武器,LaserRifle_Focused,Focused Laser Rifle,聚焦型激光步枪
+武器,PlasmaPistol_Focused,Focused Plasma Pistol,聚焦型等离子手枪
+武器,PlasmaRifle_Focused,Focused Plasma Rifle,聚焦型等离子步枪
+武器,GatlingLaser,Gatling Laser,加特林激光枪
+武器,GaussRifle,Gauss Rifle,高斯步枪
+武器,Fatman_Guided,Guided Fat Man,制导型胖子核弹发射器
+武器,MissilLauncher_Guided,Guided Missile Launcher,制导型导弹发射器
+武器,PipePistol_HairTrigger,Hair Trigger Pipe Pistol,轻扳机型土制手枪
+武器,032Pistol_Hardened,Hardened .32 Pistol,硬化型.32 手枪
+武器,Pistol_Hardened,Hardened 10mm Pistol,硬化型10 毫米手枪
+武器,AssaultRifle_Hardened,Hardened Assault Rifle,硬化型突击步枪
+武器,BBGun_Hardened,Hardened BB Gun,硬化型BB 弹枪
+武器,CombatShotgun_Hardened,Hardened Combat Shotgun,硬化型战斗霰弹枪
+武器,Fatman_Hardened,Hardened Fat Man,硬化型胖子核弹发射器
+武器,Flamer_Hardened,Hardened Flamer,硬化型火焰喷射器
+武器,GaussRifle_Hardened,Hardened Gauss Rifle,硬化型高斯步枪
+武器,HuntingRifle_Hardened,Hardened Hunting Rifle,硬化型猎枪
+武器,Rifle_Hardened,Hardened Lever-Action Rifle,硬化型杠杆式步枪
+武器,Minigun_Hardened,Hardened Minigun,硬化型迷你机枪
+武器,MissilLauncher_Hardened,Hardened Missile Launcher,硬化型导弹发射器
+武器,Railgun_Hardened,Hardened Railway Rifle,硬化型铁路步枪
+武器,SawedOffShotgun_Hardened,Hardened Sawed-Off Shotgun,硬化型短管霰弹枪
+武器,Magnum_Hardened,Hardened Scoped .44,硬化型带瞄准镜的 .44 左轮枪
+武器,Shotgun_Hardened,Hardened Shotgun,硬化型霰弹枪
+武器,SniperRifle_Hardened,Hardened Sniper Rifle,硬化型狙击步枪
+武器,PipePistol_Heavy,Heavy Pipe Pistol,重型土制手枪
+武器,LeverActionRifle_Henrietta,Henrietta,亨丽埃塔
+武器,HuntingRifle,Hunting Rifle,猎枪
+武器,InstitutePistol_Improved,Improved Institute Pistol,改良型学院手枪
+武器,InstitutePistol_Incendiary,Incendiary Institute Pistol,燃烧弹型学院手枪
+武器,AssaultRifle_Infiltrator,Infiltrator,渗透者
+武器,InstitutePistol,Institute Pistol,学院手枪
+武器,InstituteRifle,Institute Rifle,学院步枪
+武器,JunkJet,Junk Jet,垃圾喷射器
+武器,Melee_KitchenKnife,Kitchen Knife,厨刀
+武器,SawedOffShotgun_Kneecapper,Kneecapper,膝盖终结者
+武器,LaserMusket,Laser Musket,激光滑膛枪
+武器,LaserPistol,Laser Pistol,激光手枪
+武器,LaserRifle,Laser Rifle,激光步枪
+武器,Minigun_LeadBelcher,Lead Belcher,铅弹喷射者
+武器,Rifle,Lever-Action Rifle,杠杆式步枪
+武器,Rifle_LincolnsRepeater,Lincoln's Repeater,林肯连发枪
+武器,PipePistol_LittleBrother,Little Brother,小兄弟
+武器,Pistol_LoneWanderer,Lone Wanderer,孤独流浪者
+武器,InstituteRifle_Long,Long Institute Rifle,长管型学院步枪
+武器,PipeRifle_Long,Long Pipe Rifle,长管型土制步枪
+武器,GaussRifle_Magnetro4000,Magnetron 4000,磁控管 4000
+武器,PlasmaRifle_MeanGreenMonster,Mean Green Monster,绿色巨兽
+武器,Minigun,Minigun,迷你机枪
+武器,Fatman_Mirv,MIRV,多弹头核发射器（MIRV）
+武器,MissilLauncher_MissLauncher,Miss Launcher,导弹发射者
+武器,MissilLauncher,Missile Launcher,导弹发射器
+武器,PlasmaPistol_MPLXNovasurge,MPXL Novasurge,MPXL 新星浪涌
+武器,InstituteRifle_NightVision,Night-Vision Institute Rifle,夜视型学院步枪
+武器,PipeRifle_NightVision,Night-Vision Pipe Rifle,夜视型土制步枪
+武器,HuntingRifle_OlPainless,Ol' Painless,老无痛
+武器,PlasmaThrower_Overcharged,Overcharged Plasma Thrower,超载型等离子喷射器
+武器,Melee_Pickaxe,Pickaxe,鹤嘴锄
+武器,PipePistol,Pipe Pistol,土制手枪
+武器,PipeRifle,Pipe Rifle,土制步枪
+武器,PlasmaPistol,Plasma Pistol,等离子手枪
+武器,PlasmaRifle,Plasma Rifle,等离子步枪
+武器,PlasmaThrower,Plasma Thrower,等离子喷射器
+武器,PoliceBaton,PoliceBaton,警棍
+武器,Melee_PoolCue,Pool Cue,台球杆
+武器,Flamer_Pressurized,Pressurized Flamer,增压型火焰喷射器
+武器,Railgun_Railmaster,Railmaster,轨道大师
+武器,Railgun,Railway Rifle,铁路步枪
+武器,JunkJet_RecoilCompensated,Recoil Compensated Junk Jet,后坐力补偿型垃圾喷射器
+武器,BBGun_RedRocket,Red Rocket,红火箭
+武器,Melee_RaiderSword,Relentless Raider Sword,无情掠夺者剑
+武器,032Pistol_Rusty,Rusty .32 Pistol,生锈的.32 手枪
+武器,Pistol_Rusty,Rusty 10mm Pistol,生锈的10 毫米手枪
+武器,AlienBlaster_Rusty,Rusty Alien Blaster,生锈的外星爆能枪
+武器,AssaultRifle_Rusty,Rusty Assault Rifle,生锈的突击步枪
+武器,BBGun_Rusty,Rusty BB Gun,生锈的BB 弹枪
+武器,CombatShotgun_Rusty,Rusty Combat Shotgun,生锈的战斗霰弹枪
+武器,Fatman_Rusty,Rusty Fat Man,生锈的胖子核弹发射器
+武器,Flamer_Rusty,Rusty Flamer,生锈的火焰喷射器
+武器,GatlingLaser_Rusty,Rusty Gatling Laser,生锈的加特林激光枪
+武器,GaussRifle_Rusty,Rusty Gauss Rifle,生锈的高斯步枪
+武器,HuntingRifle_Rusty,Rusty Hunting Rifle,生锈的猎枪
+武器,LaserPistol_Rusty,Rusty Laser Pistol,生锈的激光手枪
+武器,LaserRifle_Rusty,Rusty Laser Rifle,生锈的激光步枪
+武器,Rifle_Rusty,Rusty Lever-Action Rifle,生锈的杠杆式步枪
+武器,Minigun_Rusty,Rusty Minigun,生锈的迷你机枪
+武器,MissilLauncher_Rusty,Rusty Missile Launcher,生锈的导弹发射器
+武器,PlasmaPistol_Rusty,Rusty Plasma Pistol,生锈的等离子手枪
+武器,PlasmaRifle_Rusty,Rusty Plasma Rifle,生锈的等离子步枪
+武器,Railgun_Rusty,Rusty Railway Rifle,生锈的铁路步枪
+武器,SawedOffShotgun_Rusty,Rusty Sawed-Off Shotgun,生锈的短管霰弹枪
+武器,Magnum_Rusty,Rusty Scoped .44,生锈的带瞄准镜的 .44 左轮枪
+武器,Shotgun_Rusty,Rusty Shotgun,生锈的霰弹枪
+武器,SniperRifle_Rusty,Rusty Sniper Rifle,生锈的狙击步枪
+武器,SawedOffShotgun,Sawed-Off Shotgun,短管霰弹枪
+武器,InstitutePistol_Scattered,Scattered Institute Pistol,散射型学院手枪
+武器,Magnum,Scoped .44,带瞄准镜的 .44 左轮枪
+武器,InstitutePistol_Scoped,Scoped Institute Pistol,带瞄准镜的学院手枪
+武器,PipePistol_Scoped,Scoped Pipe Pistol,带瞄准镜的土制手枪
+武器,Shotgun,Shotgun,霰弹枪
+武器,LaserPistol_SmugglersEnd,Smuggler's End,走私者的末日
+武器,BumperSword,Sniper Rifle,狙击步枪
+武器,SniperRifle,Sniper Rifle,狙击步枪
+武器,JunkJet_Tactical,Tactical Junk Jet,战术型垃圾喷射器
+武器,PlasmaThrower_Tactical,Tactical Plasma Thrower,战术型等离子喷射器
+武器,InstituteRifle_Targeting,Targeting Institute Rifle,瞄准型学院步枪
+武器,JunkJet_TechniciansRevenge,Technician's Revenge,技师的复仇
+武器,AlienBlaster_Tuned,Tuned Alien Blaster,调校型外星爆能枪
+武器,GatlingLaser_Tuned,Tuned Gatling Laser,调校型加特林激光枪
+武器,LaserPistol_Tuned,Tuned Laser Pistol,调校型激光手枪
+武器,LaserRifle_Tuned,Tuned Laser Rifle,调校型激光步枪
+武器,PlasmaPistol_Tuned,Tuned Plasma Pistol,调校型等离子手枪
+武器,PlasmaRifle_Tuned,Tuned Plasma Rifle,调校型等离子步枪
+武器,GatlingLaser_Vengeance,Vengeance,复仇
+武器,SniperRifle_VictoryRifle,Victory Rifle,胜利步枪
+武器,InstituteRifle_VirgilsRifle,Virgil's Rifle,维吉尔的步枪
+武器,LaserRifle_WaserWifle,Wazer Wifle,激光步枪（Wazer Wifle）
+武器,032Pistol_WildBillsSidearm,Wild Bill's Sidearm,狂野比尔的佩枪
+服装,AbrahamSpecial,Abraham's Relaxedwear,亚伯拉罕的休闲装
+服装,ArgyleSweater,Accountant Outfit,会计服
+服装,BOSUniform_Advanced,Advanced BoS Uniform,高级钢铁兄弟会制服
+服装,FlightSuit_Advanced,Advanced Flight Suit,高级飞行服
+服装,InstituteJumper_Advanced,Advanced Institute Jumper,高级学院连身服
+服装,HandymanJumpsuit_Advanced,Advanced Jumpsuit,高级连身服
+服装,LabCoat_Advanced,Advanced Lab Coat,高级实验袍
+服装,RadiationSuit_Advanced,Advanced Radiation Suit,高级防辐射服
+服装,BusinessDress,Agent Provocateur,魅影特工装
+服装,AmataSpecial,Amata's Jumpsuit,阿玛塔的连身服
+服装,UtilityJumpsuit,Armored Vault Suit,装甲避难所制服
+服装,ColonelSpecial,Autumn's Uniform,奥特姆上校制服
+服装,BaseballUniform,Baseball Uniform,棒球制服
+服装,BattleArmor,Battle Armor,战斗护甲
+服装,Suspenders,Bespoke Attire,定制服装
+服装,BittercupSpecial,Bittercup's Outfit,比特卡普的服装
+服装,BOSUniform,BoS Uniform,钢铁兄弟会制服
+服装,HunterGear_Bounty,Bounty Hunter Gear,赏金猎人套装
+服装,LoungeShirt,Bowling Shirt,保龄球衬衫
+服装,BusinessSuit,Business Suit,商务西装
+服装,costume_01,Casual01,休闲装 01
+服装,costume_02,Casual02,休闲装 02
+服装,costume_03,Casual03,休闲装 03
+服装,costume_04,Casual04,休闲装 04
+服装,costume_05,Casual05,休闲装 05
+服装,costume_06,Casual06,休闲装 06
+服装,costume_07,Casual07,休闲装 07
+服装,costume_08,Casual08,休闲装 08
+服装,costume_09,Casual09,休闲装 09
+服装,costume_10,Casual10,休闲装 10
+服装,BishopSpecial,Clergy Outfit,神职人员服装
+服装,CombatArmor,Combat Armor,战斗护甲
+服装,ComedianSpecial,Comedian Outfit,喜剧演员服
+服装,MilitaryJumpsuit_Commander,Commander Fatigues,指挥官作战服
+服装,ScientistScrubs_Commander,Commander Uniform,指挥官制服
+服装,CromwellSpecial,Confessor Cromwell's Rags,克伦威尔告解者的破布服
+服装,TiedBlouse,Country Girl,乡村女孩装
+服装,StarPaladinSpecial,Cross' Power Armor,克罗斯的动力装甲
+服装,JamesSpecial,Dad's Lab Uniform,父亲的实验室制服
+服装,Horseman_DeathJacket,Death's Jacket,死亡夹克
+服装,Detective,Detective Outfit,侦探服
+服装,DrLiSpecial,Doctor Li's Outfit,李博士的服装
+服装,DooWopOutfit,Doo-Wop Singer,嘟哇歌手服
+服装,BowlingShirt,Drag Racer,直线竞速赛车手服
+服装,ElderLyonsSpecial,Elder Lyon's Robe,莱昂长老的长袍
+服装,ScribeRobe_Elder,Elder Robe,长老长袍
+服装,SpecialThemeXmas2,Elf Outfit,精灵服
+服装,EngineerSpecial,Engineer Outfit,工程师服
+服装,EulogyJonesSpecial,Eulogy Jones' Suit,尤洛吉·琼斯的西装
+服装,BOSUniform_Expert,Expert BoS Uniform,专家级钢铁兄弟会制服
+服装,FlightSuit_Expert,Expert Flight Suit,专家级飞行服
+服装,InstituteJumper_Expert,Expert Institute Jumper,专家级学院连身服
+服装,HandymanJumpsuit_Expert,Expert Jumpsuit,专家级连身服
+服装,LabCoat_Expert,Expert Lab Coat,专家级实验袍
+服装,RadiationSuit_Expert,Expert Radiation Suit,专家级防辐射服
+服装,Horseman_FamineVestment,Famine's Vestment,饥荒法衣
+服装,FormalWear_Fancy,Fancy Formal Wear,精致正装
+服装,FlightSuit,Flight Suit,飞行服
+服装,FormalWear,Formal Wear,正装
+服装,SpecialThemeHalloween,Ghost Costume,幽灵装
+服装,GreaserSpecial,Greaser Outfit,油头帮服装
+服装,HandymanJumpsuit,Handyman Jumpsuit,勤杂工连身服
+服装,HarknessSpecial,Harkness' Security Uniform,哈克尼斯保安制服
+服装,BattleArmor_Heavy,Heavy Battle Armor,重型战斗护甲
+服装,CombatArmor_Heavy,Heavy Combat Armor,重型战斗护甲
+服装,WandererArmor_Heavy,Heavy Leather Armor,重型皮甲
+服装,RiotGear_Heavy,Heavy Merc Gear,重型雇佣兵套装
+服装,MetalArmor_Heavy,Heavy Metal Armor,重型金属护甲
+服装,RaiderArmor_Heavy,Heavy Raider Armor,重型掠夺者护甲
+服装,SynthArmor_Heavy,Heavy Synth Armor,重型合成人装甲
+服装,UtilityJumpsuit_Heavy,Heavy Vault Suit,重型避难所制服
+服装,HazmatSuit_Heavy,Heavy Wasteland Gear,重型废土套装
+服装,SlasherSpecial,Horror Fan Outfit,恐怖迷服装
+服装,ScribeRobe_Initiate,Initiate Robe,入门级长袍
+服装,JerichoSpecial,Jericho's Leather Armor,杰里科的皮甲
+服装,ScientistScrubs,Junior Officer Uniform,初级军官制服
+服装,KnightSpecial,Knight Armor,骑士装甲
+服装,LabCoat,Lab Coat,实验袍
+服装,WandererArmor,Leather Armor,皮甲
+服装,LibrarianSpecial,Librarian Outfit,图书管理员服
+服装,LifeguardOutfit,Lifeguard Outfit,救生员服
+服装,FormalWear_Lucky,Lucky Formal Wear,幸运正装
+服装,AllNightware_Lucky,Lucky Nightwear,幸运睡衣
+服装,SarahSpecial,Lyon's Pride Armor,莱昂荣耀装甲
+服装,MayorSpecial,Mayor Outfit,市长服
+服装,MechanicJumpsuit,Mechanic Jumpsuit,机械师连身服
+服装,KingSpecial,Medieval Ruler Outfit,中世纪君主服
+服装,RiotGear,Merc Gear,雇佣兵套装
+服装,MetalArmorRaiderBoss,MetalArmorRaiderBoss,掠夺者头目金属甲
+服装,MilitaryJumpsuit,Military Fatigues,军用作战服
+服装,PrestonSpecial,Minuteman Uniform,义勇军制服
+服装,MoiraSpecial,Moira's RobCo Jumpsuit,莫伊拉的罗伯科连身服
+服装,JacketTshirt,Motorcycle Jacket,机车夹克
+服装,MoviefanSpecial,Movie Fan Outfit,电影迷服
+服装,MrBurkeSpecial,Mr,先生服饰（Mr）
+服装,HunterGear_Mutant,Mutant Hunter Gear,变种人猎人套装
+服装,AllNightware_Naughty,Naughty Nightwear,性感睡衣
+服装,AllNightware,Nightwear,睡衣
+服装,NinjaSuit,Ninja Outfit,忍者服
+服装,PrinceSpecial,Nobility Outfit,贵族服装
+服装,NormalClothing,NormalClothing,普通服装
+服装,MilitaryJumpsuit_Officer,Officer Fatigues,军官作战服
+服装,ScientistScrubs_Officer,Officer Uniform,军官制服
+服装,SantaSuit_Original,Original Santa Suit,原版圣诞老人服
+服装,Horseman_PestilencePlating,Pestilence's Plating,瘟疫装甲
+服装,SpecialThemeThanksGiving,Pilgrim Outfit,朝圣者服装
+服装,PiperSpecial,Piper's Outfit,派普的服装
+服装,PolkaDotDress,Polka Dot Sundress,波点夏装
+服装,Vest,Post-War Casanova,战后情圣装
+服装,SweaterVest,Pre-War Suburbanite,战前郊区居民装
+服装,ProfessorSpecial,Professor Outfit,教授服
+服装,JobinsonsJersey,Rackie Jobinson's Jersey,拉基·乔宾逊球衣
+服装,RadiationSuit,Radiation Suit,防辐射服
+服装,RaiderArmor,Raider Armor,掠夺者护甲
+服装,EmpressSpecial,Republic Robes,共和国长袍
+服装,WorkDress,Rural Schoolmarm,乡村女教师装
+服装,SpecialThemeXmas,Santa Suit,圣诞老人服
+服装,ScifiSpecial,Sci-Fi Fan Outfit,科幻迷服装
+服装,ScribeRobe,Scribe Robe,抄写员长袍
+服装,RothchildSpecial,Scribe Rothchild's Robe,罗思柴尔德抄写员长袍
+服装,LucasSpecial,Sheriff's Duster,警长长风衣
+服装,SpecialThemeHalloween2,Skeleton Costume,骷髅装
+服装,SodaFountainDress,Soda Fountain Dress,汽水店连衣裙
+服装,SoldierSpecial,Soldier Uniform,士兵制服
+服装,SportsfanSpecial,Sports Fan Outfit,体育迷服装
+服装,CheckeredShirt,Spring Casualwear,春季休闲装
+服装,BattleArmor_Sturdy,Sturdy Battle Armor,加固型战斗护甲
+服装,CombatArmor_Sturdy,Sturdy Combat Armor,加固型战斗护甲
+服装,WandererArmor_Sturdy,Sturdy Leather Armor,加固型皮甲
+服装,RiotGear_Sturdy,Sturdy Merc Gear,加固型雇佣兵套装
+服装,MetalArmor_Sturdy,Sturdy Metal Armor,加固型金属护甲
+服装,RaiderArmor_Sturdy,Sturdy Raider Armor,加固型掠夺者护甲
+服装,UtilityJumpsuit_Sturdy,Sturdy Vault Suit,加固型避难所制服
+服装,HazmatSuit_Sturdy,Sturdy Wasteland Gear,加固型废土套装
+服装,SurgeonSpecial,Surgeon Outfit,外科医生服
+服装,SurvivorSpecial,Survivor Armor,幸存者装甲
+服装,Swimsuit,Swimsuit,泳装
+服装,SwingDress,Swing Dress,摇摆舞裙
+服装,PowerArmor,T-45a Power Armor,T-45a 动力装甲
+服装,PowerArmor_T45d,T-45d Power Armor,T-45d 动力装甲
+服装,PowerArmor_T45f,T-45f Power Armor,T-45f 动力装甲
+服装,PowerArmor_51a,T-51a Power Armor,T-51a 动力装甲
+服装,PowerArmor_51d,T-51d Power Armor,T-51d 动力装甲
+服装,PowerArmor_51f,T-51f Power Armor,T-51f 动力装甲
+服装,PowerArmor_T60a,T-60a Power Armor,T-60a 动力装甲
+服装,PowerArmor_T60d,T-60d Power Armor,T-60d 动力装甲
+服装,PowerArmor_T60f,T-60f Power Armor,T-60f 动力装甲
+服装,FarHarborSpecial,Tattered Longcoat,破旧长大衣
+服装,AlistairSpecial,Tenpenny's Suit,坦佩尼的西装
+服装,ThreedogSpecial,Three Dog's Outfit,三狗的服装
+服装,HunterGear_Treasure,Treasure Hunter Gear,宝藏猎人套装
+服装,ButchSpecial,Tunnel Snakes' Outfit,隧道蛇帮服装
+服装,SequinDress,Vault Socialite,避难所名媛装
+服装,jumpsuit,Vault Suit,避难所制服
+服装,WaitressUniform,Waitress Uniform,女服务员制服
+服装,Horseman_WarArmor,War's Armor,战争装甲
+服装,WastelandSurgeon_Doctor,Wasteland Doctor,废土医生服
+服装,HazmatSuit,Wasteland Gear,废土套装
+服装,WastelandSurgeon_Settler,Wasteland Medic,废土医护服
+服装,WastelandSurgeon,Wasteland Surgeon,废土外科医生服
+服装,WrestlerSpecial,Wrestler Outfit,摔跤手服装
+服装,PowerArmor_MkI,X-01 Mk I Power Armor,X-01 Mk I 动力装甲
+服装,PowerArmor_MkIV,X-01 Mk IV Power Armor,X-01 Mk IV 动力装甲
+服装,PowerArmor_MkVI,X-01 Mk VI Power Armor,X-01 Mk VI 动力装甲
